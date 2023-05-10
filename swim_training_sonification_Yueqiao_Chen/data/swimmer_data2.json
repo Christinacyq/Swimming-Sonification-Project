@@ -1,0 +1,141 @@
+[{
+	"phase": "Glide",
+	"timestamp": 1500,
+	"force": 10,
+	"duration": 1500,
+	"oxygen": 0.98,
+	"accuracy": 1.0
+}, {
+	"phase": "Outsweep",
+	"timestamp": 1800,
+	"force": 100,
+	"duration": 300,
+	"oxygen": 0.97,
+	"accuracy": 1.0
+}, {
+	"phase": "Catch",
+	"timestamp": 2400,
+	"force": 200,
+	"oxygen": 0.96,
+	"duration": 600,
+	"accuracy": 1.0
+}, {
+	"phase": "Insweep",
+	"timestamp": 3000,
+	"force": 350,
+	"oxygen": 0.99,
+	"duration": 600,
+	"accuracy": 1.0
+}, {
+	"phase": "Recovery",
+	"timestamp": 3300,
+	"force": 35,
+	"oxygen": 0.98,
+	"duration": 300,
+	"accuracy": 1.0
+}, {
+	"phase": "Glide",
+	"timestamp": 4800,
+	"force": 10,
+	"duration": 1500,
+	"oxygen": 0.98,
+	"accuracy": 1.0
+}, {
+	"phase": "Outsweep",
+	"timestamp": 5100,
+	"force": 100,
+	"duration": 300,
+	"oxygen": 0.97,
+	"accuracy": 1.0
+}, {
+	"phase": "Catch",
+	"timestamp": 5700,
+	"force": 200,
+	"oxygen": 0.96,
+	"duration": 600,
+	"accuracy": 1.0
+}, {
+	"phase": "Insweep",
+	"timestamp": 6300,
+	"force": 350,
+	"oxygen": 0.99,
+	"duration": 600,
+	"accuracy": 1.0
+}, {
+	"phase": "Recovery",
+	"timestamp": 6600,
+	"force": 35,
+	"oxygen": 0.98,
+	"duration": 300,
+	"accuracy": 1.0
+},{
+	"phase": "Glide",
+	"timestamp": 8100,
+	"force": 10,
+	"duration": 1500,
+	"oxygen": 0.98,
+	"accuracy": 1.0
+}, {
+	"phase": "Outsweep",
+	"timestamp": 8400,
+	"force": 100,
+	"duration": 300,
+	"oxygen": 0.97,
+	"accuracy": 1.0
+}, {
+	"phase": "Catch",
+	"timestamp": 9000,
+	"force": 200,
+	"oxygen": 0.96,
+	"duration": 600,
+	"accuracy": 1.0
+}, {
+	"phase": "Insweep",
+	"timestamp": 9600,
+	"force": 350,
+	"oxygen": 0.99,
+	"duration": 600,
+	"accuracy": 1.0
+}, {
+	"phase": "Recovery",
+	"timestamp": 9900,
+	"force": 35,
+	"oxygen": 0.98,
+	"duration": 300,
+	"accuracy": 1.0
+},{
+	"phase": "Glide",
+	"timestamp": 11400,
+	"force": 10,
+	"duration": 1500,
+	"oxygen": 0.98,
+	"accuracy": 1.0
+}, {
+	"phase": "Outsweep",
+	"timestamp": 11700,
+	"force": 100,
+	"duration": 300,
+	"oxygen": 0.97,
+	"accuracy": 1.0
+}, {
+	"phase": "Catch",
+	"timestamp": 12300,
+	"force": 200,
+	"oxygen": 0.96,
+	"duration": 600,
+	"accuracy": 1.0
+}, {
+	"phase": "Insweep",
+	"timestamp": 12900,
+	"force": 350,
+	"oxygen": 0.99,
+	"duration": 600,
+	"accuracy": 1.0
+}, {
+	"phase": "Recovery",
+	"timestamp": 13200,
+	"force": 35,
+	"oxygen": 0.98,
+	"duration": 300,
+	"accuracy": 1.0
+}]

@@ -1,0 +1,176 @@
+[{
+	"phase": "Glide",
+	"timestamp": 1100,
+	"force": 10,
+	"duration": 1100,
+	"oxygen": 0.98,
+	"accuracy": 0.97
+}, {
+	"phase": "Outsweep",
+	"timestamp": 1340,
+	"force": 80,
+	"duration": 240,
+	"oxygen": 0.97,
+	"accuracy": 0.95
+}, {
+	"phase": "Catch",
+	"timestamp": 1880,
+	"force": 180,
+	"oxygen": 0.96,
+	"duration": 540,
+	"accuracy": 0.93
+}, {
+	"phase": "Insweep",
+	"timestamp": 2400,
+	"force": 220,
+	"oxygen": 0.99,
+	"duration": 520,
+	"accuracy": 0.90
+}, {
+	"phase": "Recovery",
+	"timestamp": 2710,
+	"force": 30,
+	"oxygen": 0.98,
+	"duration": 310,
+	"accuracy": 1.0
+}, {
+	"phase": "Glide",
+	"timestamp": 4110,
+	"force": 10,
+	"oxygen": 0.97,
+	"duration": 1400,
+	"accuracy": 0.95
+}, {
+	"phase": "Outsweep",
+	"timestamp": 4410,
+	"force": 90,
+	"oxygen": 0.96,
+	"duration": 300,
+	"accuracy": 0.99
+}, {
+	"phase": "Catch",
+	"timestamp": 5080,
+	"force": 190,
+	"oxygen": 0.92,
+	"duration": 670,
+	"accuracy": 0.99
+}, {
+	"phase": "Insweep",
+	"timestamp": 5740,
+	"force": 250,
+	"oxygen": 0.98,
+	"duration": 660,
+	"accuracy": 0.89
+}, {
+	"phase": "Recovery",
+	"timestamp": 5960,
+	"force": 38,
+	"oxygen": 0.98,
+	"duration": 220,
+	"accuracy": 1.0
+}, {
+	"phase": "Glide",
+	"timestamp": 7160,
+	"force": 10,
+	"oxygen": 0.97,
+	"duration": 1200,
+	"accuracy": 1.0
+}, {
+	"phase": "Outsweep",
+	"timestamp": 7420,
+	"force": 130,
+	"oxygen": 0.96,
+	"duration": 100,
+	"accuracy": 0.98
+}, {
+	"phase": "Catch",
+	"timestamp": 8000,
+	"force": 200,
+	"oxygen": 0.92,
+	"duration": 580,
+	"accuracy": 0.94
+}, {
+	"phase": "Insweep",
+	"timestamp": 8590,
+	"force": 310,
+	"oxygen": 1.0,
+	"duration": 590,
+	"accuracy": 0.92
+}, {
+	"phase": "Recovery",
+	"timestamp": 8870,
+	"force": 50,
+	"oxygen": 0.97,
+	"duration": 280,
+	"accuracy": 0.98
+}, {
+	"phase": "Glide",
+	"timestamp": 7160,
+	"force": 10,
+	"oxygen": 0.97,
+	"duration": 1600,
+	"accuracy": 1.0
+}, {
+	"phase": "Outsweep",
+	"timestamp": 7420,
+	"force": 130,
+	"oxygen": 0.96,
+	"duration": 380,
+	"accuracy": 0.98
+}, {
+	"phase": "Catch",
+	"timestamp": 8000,
+	"force": 180,
+	"oxygen": 0.95,
+	"duration": 650,
+	"accuracy": 0.94
+}, {
+	"phase": "Insweep",
+	"timestamp": 8590,
+	"force": 280,
+	"oxygen": 1.0,
+	"duration": 630,
+	"accuracy": 0.92
+}, {
+	"phase": "Recovery",
+	"timestamp": 8870,
+	"force": 50,
+	"oxygen": 0.97,
+	"duration": 290,
+	"accuracy": 0.98
+}, {
+	"phase": "Glide",
+	"timestamp": 10670,
+	"force": 10,
+	"oxygen": 0.97,
+	"duration": 1800,
+	"accuracy": 1.0
+}, {
+	"phase": "Outsweep",
+	"timestamp": 10990,
+	"force": 70,
+	"oxygen": 0.96,
+	"duration": 320,
+	"accuracy": 0.98
+}, {
+	"phase": "Catch",
+	"timestamp": 11510,
+	"force": 110,
+	"oxygen": 0.95,
+	"duration": 520,
+	"accuracy": 0.94
+}, {
+	"phase": "Insweep",
+	"timestamp": 12190,
+	"force": 200,
+	"oxygen": 1.0,
+	"duration": 680,
+	"accuracy": 0.92
+}, {
+	"phase": "Recovery",
+	"timestamp": 12550,
+	"force": 50,
+	"oxygen": 0.92,
+	"duration": 360,
+	"accuracy": 0.9
+}]
